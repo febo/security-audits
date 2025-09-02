@@ -87,6 +87,10 @@
 - [Zellic Audit (2025-05-16).pdf](./spl/ZellicTokenWrapAudit-2025-05-16.pdf)
 - [Runtime Verification Audit (2025-06-11).pdf](./spl/RuntimeVerificationTokenWrapAudit-2025-06-11.pdf)
 
+### P-Token
+
+  - [Neodyme Audit (2025-06-12).pdf](./spl/NeodymePTokenPinocchioAudit-2025-06-12.pdf)
+
 ## Core BPF Programs
 
 ### Address-Lookup-Table, Config, Feature-Gate
@@ -96,3 +100,9 @@
 ### Stake
 
   - [Zellic Audit (2025-03-12).pdf](./core-bpf/ZellicStakeProgramAudit-2025-03-12.pdf)
+
+## SDKs
+
+### Pinocchio
+
+  - [Neodyme Audit (2025-06-12).pdf](./spl/NeodymePTokenPinocchioAudit-2025-06-12.pdf)
